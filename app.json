@@ -1,0 +1,32 @@
+{
+  "name": "Library",
+  "displayName": "Library",
+  "expo": {
+    "name": "Library",
+    "slug": "Library",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.Library",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.yourcompany.Library",
+      "versionCode": 1
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  }
+}
